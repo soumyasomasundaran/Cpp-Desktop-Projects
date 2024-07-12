@@ -1,0 +1,2 @@
+﻿  HelloWorld.cpp
+C:\Users\soumy\source\repos\CPlusPlus\HelloWorld\HelloWorld\HelloWorld.cpp(135,17): error C2065: 'About': undeclared identifier
